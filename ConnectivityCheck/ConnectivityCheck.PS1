@@ -1,0 +1,1 @@
+while(0 -eq 0){ping 9.9.9.9;ping google.com;Invoke-WebRequest www.google.com -Method Get -UseBasicParsing;sleep 9};
