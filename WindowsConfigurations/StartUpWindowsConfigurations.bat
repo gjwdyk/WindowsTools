@@ -17,6 +17,14 @@ rem +-+----------------------------------------------------------------+-+
 
 powershell.exe -file "C:\HC\Program\WindowsConfigurations\Set-ScreenResolution.ps1" 3840 2400 60
 
+rem +-+--------------------------+-+
+rem +-+--------------------------+-+
+rem ! ! Pause to Observe Results ! !
+rem +-+--------------------------+-+
+rem +-+--------------------------+-+
+
+pause
+
 rem +-+-----------------+-+
 rem +-+-----------------+-+
 rem ! ! End of Document ! !
