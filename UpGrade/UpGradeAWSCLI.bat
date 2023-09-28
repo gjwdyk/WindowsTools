@@ -12,9 +12,9 @@ cd %USERPROFILE%\Downloads
 
 
 
-rem +--------------------+
-rem !   ReView Version   !
-rem +--------------------+
+rem +----------------------+
+rem !   Pre-View Version   !
+rem +----------------------+
 
 aws --version
 
@@ -29,9 +29,9 @@ msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 
 
 
-rem +--------------------+
-rem !   ReView Version   !
-rem +--------------------+
+rem +-----------------------+
+rem !   Post-View Version   !
+rem +-----------------------+
 
 aws --version
 
