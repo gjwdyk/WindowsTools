@@ -96,6 +96,14 @@ terraform version
 
 
 
+rem +------------------------------------------+
+rem !   Pause for a Chance to Observe Result   !
+rem +------------------------------------------+
+
+pause
+
+
+
 rem +-+-----------------+-+
 rem +-+-----------------+-+
 rem ! !   End of File   ! !
